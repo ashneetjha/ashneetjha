@@ -53,3 +53,13 @@
 ## 📊 GitHub Stats  
 ![Ashneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashneetjha&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashneetjha&layout=compact&theme=tokyonight)  
+
+---
+
+## 🔥 GitHub Streak  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ashneetjha&theme=tokyonight)  
+
+---
+
+## 🏅 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=ashneetjha&theme=onedark&row=1&column=6)  
