@@ -1,8 +1,12 @@
 <!-- =======================  HERO  ======================= -->
 <h1 align="center">🟥🟨⬛ Hi, I'm <b>Ashneet Jha</b></h1>
 <p align="center">
-  <b>3rd-year B.Tech CSE @ SRMIST</b> • Web Dev • Game Dev • AI/ML • IoT<br/>
-  I ship clean, user-centric products with modern stacks.
+  <b>3rd-year B.Tech CSE @ SRMIST</b> • Web Dev • Game Dev • AI/ML • IoT
+</p>
+
+<p align="center">
+  <!-- Typing banner (RYB themed) -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1400&center=true&vCenter=true&width=750&lines=Building+impactful+products+with+modern+stacks;Web+%F0%9F%8C%90+%7C+Unity+%F0%9F%8E%AE+%7C+AI%2FML+%F0%9F%A4%96+%7C+IoT+%F0%9F%9A%80;Clean+code.+Clear+UX.+Measurable+impact.&color=EF4444&background=00000000" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -37,7 +41,7 @@
 **Game Dev:** Unity (C#), 2D/3D mechanics  
 **Cloud & Tools:** AWS, Git/GitHub, Shell, Vercel, Netlify, Figma
 
-### 🧰 Skill Badges
+### 🧰 Skill Badges (RYB)
 <!-- Languages -->
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/C%2B%2B-EF4444?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" />
@@ -96,6 +100,7 @@
 ---
 
 ## 🚀 Featured Projects
+<!-- Kept EXACTLY as provided -->
 
 - **🌱 ECO-SHIELD** → [Live Demo](https://ecoshieldwebsite.netlify.app/) | [Repo](https://github.com/ashneetjha/ECO-SHIELD)  
   *A smart environmental protection website with awareness and tracking features.*  
@@ -133,7 +138,7 @@
 
 ---
 
-## 📊 GitHub Highlights (R•Y•B theme)
+## 📊 GitHub Highlights (R•Y•B)
 
 <!-- Stats -->
 <img
@@ -159,6 +164,23 @@
   alt="GitHub Trophies"
 />
 
+<!-- Profile Summary Card (dark theme) -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashneetjha&theme=github_dark"
+  alt="Profile Summary"
+/>
+
+<!-- Activity Graph (RYB palette) -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ashneetjha&bg_color=000000&color=F59E0B&line=EF4444&point=F59E0B&hide_border=true&custom_title=Contribution%20Graph"
+  alt="Contribution Graph"
+/>
+
+---
+
+## ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+
 ---
 
 ## 📫 Contact
@@ -172,3 +194,7 @@
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F59E0B&height=2&section=footer" width="100%" />
 </p>
+
+<!-- Optional: Contribution Snake (enable GitHub Action before using)
+<img src="https://raw.githubusercontent.com/ashneetjha/ashneetjha/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+-->
