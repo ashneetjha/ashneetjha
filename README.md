@@ -83,15 +83,15 @@
 ---
 
 ## 💼 Experience (Selected)
-- [cite_start]**Technical Head — IEEE SSIT SBC SRMIST** (Aug 2025 – Present) [cite: 33] [cite_start]— Driving technical R&D, managing product lifecycles, and spearheading innovation. [cite: 34]
-- [cite_start]**Head of Web Development — Coding Ninjas 10X Club, SRM** (Jun 2025 – Present) [cite: 31] [cite_start]— Leading web initiatives, mentoring developers, and deploying full-stack projects. [cite: 32]
-- [cite_start]**GirlScript Summer of Code (GSSOC 2025) Tech Contributor** (Sept 2025 – Present) 
-- **Game Development Intern — Revolution Games Pvt. [cite_start]Ltd.** (Jun 2025 – Sept 2025)  [cite_start]— Created Unity-based 2D/3D games with optimized mechanics. [cite: 30]
-- [cite_start]**Full-Stack Web Dev Intern — EduSkills** (Apr 2025 – Jun 2025) [cite: 25] [cite_start]— Developed MERN stack applications with auth, DB management, and cloud deployment. [cite: 26]
-- [cite_start]**Web Dev Intern — Prodigy Infotech** (Feb 2025 – Mar 2025) [cite: 23] [cite_start]— Built responsive React.js apps with API integration (LoR earned). [cite: 24]
-- [cite_start]**SDE Intern — Sukh Sagar Industries** (Jan 2025 – Mar 2025) [cite: 21] [cite_start]— Contributed to backend development, automation, and system design. [cite: 22]
-- [cite_start]**AICTE AWS AIML Virtual Internship** (Jan 2025 – Mar 2025) [cite: 27] [cite_start]— Applied AWS services and ML foundations to practical use cases. [cite: 28]
-- [cite_start]**Class Representative (CR)** — Coordinated between students and faculty with accountability. [cite: 36]
+- Technical Head — IEEE SSIT SBC SRMIST (Aug 2025 – Present) — Driving technical R&D, managing product lifecycles, and spearheading innovation.
+- Head of Web Development — Coding Ninjas 10X Club, SRM (Jun 2025 – Present) — Leading web initiatives, mentoring developers, and deploying full-stack projects.
+- GirlScript Summer of Code (GSSOC 2025) Tech Contributor (Sept 2025 – Present)
+- Game Development Intern — Revolution Games Pvt. Ltd. (Jun 2025 – Sept 2025) — Created Unity-based 2D/3D games with optimized mechanics.
+- Full-Stack Web Dev Intern — EduSkills (Apr 2025 – Jun 2025) — Developed MERN stack applications with auth, DB management, and cloud deployment.
+- Web Dev Intern — Prodigy Infotech (Feb 2025 – Mar 2025) — Built responsive React.js apps with API integration (LoR earned).
+- SDE Intern — Sukh Sagar Industries (Jan 2025 – Mar 2025) — Contributed to backend development, automation, and system design.
+- AICTE AWS AIML Virtual Internship (Jan 2025 – Mar 2025) — Applied AWS services and ML foundations to practical use cases.
+- Class Representative (CR) — Coordinated between students and faculty with accountability.
 
 ## 🚀 Featured Projects
 
@@ -99,7 +99,7 @@
   <tr>
     <td width="50%">
       <strong>🌱 ECO-SHIELD (Bio Pellet)</strong>
-      [cite_start]<p>Multilingual Farmer AI Assistant with awareness and tracking features. [cite: 40]</p>
+      <p>Multilingual Farmer AI Assistant with awareness and tracking features.</p>
       <a href="https://ecoshieldwebsite.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-DC143C?style=for-the-badge&logo=vercel&logoColor=white"></a>
       <a href="https://github.com/ashneetjha/ECO-SHIELD"><img src="https://img.shields.io/badge/Repo-00BCD4?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
@@ -109,7 +109,7 @@
     </td>
     <td width="50%">
       <strong>📂 Personal Portfolio</strong>
-      [cite_start]<p>Personal portfolio website showcasing skills, projects, and achievements. [cite: 40]</p>
+      <p>Personal portfolio website showcasing skills, projects, and achievements.</p>
       <a href="https://ashneetjha.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-DC143C?style=for-the-badge&logo=vercel&logoColor=white"></a>
       <a href="https://github.com/ashneetjha/Portfolio-Ashneet-Jha"><img src="https://img.shields.io/badge/Repo-00BCD4?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
@@ -120,7 +120,7 @@
   <tr>
     <td width="50%">
       <strong>🔮 Cosmic Chronicles</strong>
-      [cite_start]<p>Horoscope management system with user authentication & prediction features. [cite: 40]</p>
+      <p>Horoscope management system with user authentication & prediction features.</p>
       <a href="https://ashneetjha.github.io/Cosmic-Chronicles/"><img src="https://img.shields.io/badge/Live_Demo-DC143C?style=for-the-badge&logo=githubpages&logoColor=white"></a>
       <a href="https://github.com/ashneetjha/Cosmic-Chronicles"><img src="https://img.shields.io/badge/Repo-00BCD4?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
@@ -128,7 +128,7 @@
     </td>
     <td width="50%">
       <strong>🚗 Smart Car Parking System</strong>
-      [cite_start]<p>IoT-based project for efficient, sensor-based space optimization. [cite: 41]</p>
+      <p>IoT-based project for efficient, sensor-based space optimization.</p>
       <a href="https://github.com/ashneetjha/Smart-Car-Parking-System"><img src="https://img.shields.io/badge/Repo-00BCD4?style=for-the-badge&logo=github&logoColor=white"></a>
       <br><br>
       <img src="https://img.shields.io/badge/IoT-3D3D3D?style=flat-square">
@@ -150,19 +150,19 @@
 </table>
 
 ## 🎓 Education
-- [cite_start]**B.Tech CSE — SRMIST, KTR (Chennai)** (2023–2027) [cite: 12, 14]
-- [cite_start]**XII (CBSE) — Bal Bhavan International School** (2021–2023) [cite: 13, 15]
-- [cite_start]**I–X (CBSE) — Basava International School** (2010–2021) [cite: 16, 17]
+- **B.Tech CSE — SRMIST, KTR (Chennai)** (2023–2027)
+- **XII (CBSE) — Bal Bhavan International School** (2021–2023)
+- **I–X (CBSE) — Basava International School** (2010–2021)
 
 ## 📜 Certifications
-- [cite_start]**Programming & Dev:** NPTEL (Programming in Java, Introduction to Machine Learning) [cite: 43][cite_start], Scaler & Udemy (DBMS, C Programming) [cite: 44]
-- [cite_start]**Cloud & AI/ML:** AWS Academy (Cloud & ML Foundations) [cite: 45][cite_start], IBM SkillsBuild (Data Fundamentals) [cite: 45]
-- [cite_start]**Networking:** Cisco Networking Academy (Networking Basics) [cite: 46]
+- **Programming & Dev:** NPTEL (Programming in Java, Introduction to Machine Learning), Scaler & Udemy (DBMS, C Programming)
+- **Cloud & AI/ML:** AWS Academy (Cloud & ML Foundations), IBM SkillsBuild (Data Fundamentals)
+- **Networking:** Cisco Networking Academy (Networking Basics)
 
 ## 🥇 Achievements
-- [cite_start]Student’s **Annual Outstanding Achievement Award (2023–24)** — C.Tech (CSE Core) [cite: 48]
-- [cite_start]**2nd place** Intra-College (Civil & Mechanical Depts) & **3rd place** EGD (Mechanical) [cite: 49]
-- [cite_start]**23+ Olympiad medals** in Math, Science, CS & Social Science 
+- Student’s **Annual Outstanding Achievement Award (2023–24)** — C.Tech (CSE Core)
+- **2nd place** Intra-College (Civil & Mechanical Depts) & **3rd place** EGD (Mechanical)
+- **23+ Olympiad medals** in Math, Science, CS & Social Science
 
 ---
 
