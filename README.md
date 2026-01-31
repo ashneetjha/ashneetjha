@@ -1,229 +1,177 @@
-<h1 align="center">👋 Hi, I'm <b>Ashneet Jha</b></h1>
-<p align="center">
-  <b>3rd-year B.Tech CSE @ SRMIST</b> • Web Dev • Game Dev • AI/ML • IoT
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ashneet%20Jha&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Web%20Dev%20•%20Game%20Dev%20•%20AI/ML%20•%20IoT&descAlignY=60&descAlign=50" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1400&center=true&vCenter=true&width=750&lines=Building+impactful+products+with+modern+stacks;Web+%F0%9F%8C%90+%7C+Unity+%F0%9F%8E%AE+%7C+AI%2FML+%F0%9F%A4%96+%7C+IoT+%F0%9F%9A%80;Clean+code.+Clear+UX.+Measurable+impact.&color=DC143C&background=00000000" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=F7768E&center=true&vCenter=true&width=600&lines=Building+impactful+products;Web+%F0%9F%8C%90+%7C+Unity+%F0%9F%8E%AE+%7C+AI%2FML+%F0%9F%A4%96;Clean+Code.+Clear+UX.+Measurable+Impact." alt="Typing SVG" />
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://ashneetjha.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-DC143C?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Me-FF0055?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/ashneetjha">
-    <img src="https://img.shields.io/badge/GitHub-ashneetjha-00BCD4?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/GitHub-ashneetjha-1f2328?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ashneetjha">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00BCD4?style=for-the-badge&logo=linkedin&logoColor=000000" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ashneetjha&label=Profile%20Views&color=3D3D3D&style=for-the-badge" />
-</p>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3D3D3D&height=2&section=header" width="100%" />
+<br />
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Arsenal
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
-      <td align="right"><b>Languages</b></td>
+      <td align="center" width="120"><b>Languages</b></td>
       <td>
-        <img src="https://img.shields.io/badge/C-3D3D3D?style=for-the-badge&logo=c&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/C%2B%2B-DC143C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Java-00BCD4?style=for-the-badge&logo=openjdk&logoColor=000000" />
-        <img src="https://img.shields.io/badge/Python-3D3D3D?style=for-the-badge&logo=python&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=000000" />
-        <img src="https://img.shields.io/badge/C%23-00BCD4?style=for-the-badge&logo=c-sharp&logoColor=000000" />
-        <img src="https://img.shields.io/badge/SQL-3D3D3D?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,cs" />
       </td>
     </tr>
     <tr>
-      <td align="right"><b>Frontend</b></td>
+      <td align="center" width="120"><b>Frontend</b></td>
       <td>
-        <img src="https://img.shields.io/badge/HTML5-DC143C?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/CSS3-00BCD4?style=for-the-badge&logo=css3&logoColor=000000" />
-        <img src="https://img.shields.io/badge/React-DC143C?style=for-the-badge&logo=react&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Tailwind-3D3D3D?style=for-the-badge&logo=tailwindcss&logoColor=00BCD4" />
+        <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
       </td>
     </tr>
     <tr>
-      <td align="right"><b>Backend & DB</b></td>
+      <td align="center" width="120"><b>Backend</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Node.js-00BCD4?style=for-the-badge&logo=nodedotjs&logoColor=000000" />
-        <img src="https://img.shields.io/badge/Express-3D3D3D?style=for-the-badge&logo=express&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/MongoDB-DC143C?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/MySQL-00BCD4?style=for-the-badge&logo=mysql&logoColor=000000" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" />
       </td>
     </tr>
     <tr>
-      <td align="right"><b>Game Dev</b></td>
+      <td align="center" width="120"><b>Game Dev</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Unity-3D3D3D?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/C%23-DC143C?style=for-the-badge&logo=c-sharp&logoColor=FFFFFF" />
+        <img src="https://skillicons.dev/icons?i=unity,cs" />
       </td>
     </tr>
     <tr>
-      <td align="right"><b>Cloud & Tools</b></td>
+      <td align="center" width="120"><b>Tools</b></td>
       <td>
-        <img src="https://img.shields.io/badge/AWS-DC143C?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Git-3D3D3D?style=for-the-badge&logo=git&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/GitHub-00BCD4?style=for-the-badge&logo=github&logoColor=000000" />
-        <img src="https://img.shields.io/badge/Shell-3D3D3D?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Vercel-3D3D3D?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Netlify-DC143C?style=for-the-badge&logo=netlify&logoColor=FFFFFF" />
-        <img src="https://img.shields.io/badge/Figma-00BCD4?style=for-the-badge&logo=figma&logoColor=000000" />
+        <img src="https://skillicons.dev/icons?i=git,github,aws,figma,vercel,netlify,bash" />
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 ---
 
-## 💼 Experience (Selected)
-- Technical Head — IEEE SSIT SBC SRMIST (Aug 2025 – Present) — Driving technical R&D, managing product lifecycles, and spearheading innovation.
-- Head of Web Development — Coding Ninjas 10X Club, SRM (Jun 2025 – Present) — Leading web initiatives, mentoring developers, and deploying full-stack projects.
-- GirlScript Summer of Code (GSSOC 2025) Tech Contributor (Sept 2025 – Present)
-- Game Development Intern — Revolution Games Pvt. Ltd. (Jun 2025 – Sept 2025) — Created Unity-based 2D/3D games with optimized mechanics.
-- Full-Stack Web Dev Intern — EduSkills (Apr 2025 – Jun 2025) — Developed MERN stack applications with auth, DB management, and cloud deployment.
-- Web Dev Intern — Prodigy Infotech (Feb 2025 – Mar 2025) — Built responsive React.js apps with API integration (LoR earned).
-- SDE Intern — Sukh Sagar Industries (Jan 2025 – Mar 2025) — Contributed to backend development, automation, and system design.
-- AICTE AWS AIML Virtual Internship (Jan 2025 – Mar 2025) — Applied AWS services and ML foundations to practical use cases.
-- Class Representative (CR) — Coordinated between students and faculty with accountability.
+### 💼 Professional Experience
 
-## 🚀 Featured Projects
+- **Technical Head** @ IEEE SSIT SBC SRMIST _(Aug 2025 – Present)_
+  <br>Driving R&D and spearheading product innovation lifecycles.
+- **Head of Web Development** @ Coding Ninjas 10X Club, SRM _(Jun 2025 – Present)_
+  <br>Leading web initiatives and mentoring developers on full-stack projects.
+- **Tech Contributor** @ GirlScript Summer of Code _(Sept 2025 – Present)_
+- **Game Development Intern** @ Revolution Games Pvt. Ltd. _(Jun 2025 – Sept 2025)_
+  <br>Developed Unity-based 2D/3D games with optimized mechanics.
+- **Full-Stack Web Dev Intern** @ EduSkills _(Apr 2025 – Jun 2025)_
+  <br>Built MERN stack apps with cloud deployment.
+- **Web Dev Intern** @ Prodigy Infotech _(Feb 2025 – Mar 2025)_
+- **SDE Intern** @ Sukh Sagar Industries _(Jan 2025 – Mar 2025)_
+
+---
+
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <strong>🌱 ECO-SHIELD (Bio Pellet)</strong>
-      <p>Multilingual Farmer AI Assistant with awareness and tracking features.</p>
-      <a href="https://ecoshieldwebsite.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-DC143C?style=for-the-badge&logo=vercel&logoColor=white"></a>
-      <a href="https://github.com/ashneetjha/ECO-SHIELD"><img src="https://img.shields.io/badge/Repo-00BCD4?style=for-the-badge&logo=github&logoColor=white"></a>
-      <br><br>
-      <img src="https://img.shields.io/badge/React-3D3D3D?style=flat-square&logo=react">
-      <img src="https://img.shields.io/badge/Node.js-3D3D3D?style=flat-square&logo=nodedotjs">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-3D3D3D?style=flat-square&logo=tailwindcss">
+      <h3 align="center">🌱 ECO-SHIELD (Bio Pellet)</h3>
+      <p align="center">Multilingual Farmer AI Assistant with tracking.</p>
+      <div align="center">
+        <a href="https://ecoshieldwebsite.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-FF0055?style=for-the-badge&logo=vercel&logoColor=white"></a>
+        <a href="https://github.com/ashneetjha/ECO-SHIELD"><img src="https://img.shields.io/badge/Source_Code-1f2328?style=for-the-badge&logo=github&logoColor=white"></a>
+      </div>
+      <br>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+      </div>
     </td>
     <td width="50%">
-      <strong>📂 Personal Portfolio</strong>
-      <p>Personal portfolio website showcasing skills, projects, and achievements.</p>
-      <a href="https://ashneetjha.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-DC143C?style=for-the-badge&logo=vercel&logoColor=white"></a>
-      <a href="https://github.com/ashneetjha/Portfolio-Ashneet-Jha"><img src="https://img.shields.io/badge/Repo-00BCD4?style=for-the-badge&logo=github&logoColor=white"></a>
-      <br><br>
-      <img src="https://img.shields.io/badge/React-3D3D3D?style=flat-square&logo=react">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-3D3D3D?style=flat-square&logo=tailwindcss">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>🔮 Cosmic Chronicles</strong>
-      <p>Horoscope management system with user authentication & prediction features.</p>
-      <a href="https://ashneetjha.github.io/Cosmic-Chronicles/"><img src="https://img.shields.io/badge/Live_Demo-DC143C?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-      <a href="https://github.com/ashneetjha/Cosmic-Chronicles"><img src="https://img.shields.io/badge/Repo-00BCD4?style=for-the-badge&logo=github&logoColor=white"></a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Java-3D3D3D?style=flat-square&logo=openjdk">
-    </td>
-    <td width="50%">
-      <strong>🚗 Smart Car Parking System</strong>
-      <p>IoT-based project for efficient, sensor-based space optimization.</p>
-      <a href="https://github.com/ashneetjha/Smart-Car-Parking-System"><img src="https://img.shields.io/badge/Repo-00BCD4?style=for-the-badge&logo=github&logoColor=white"></a>
-      <br><br>
-      <img src="https://img.shields.io/badge/IoT-3D3D3D?style=flat-square">
-      <img src="https://img.shields.io/badge/Arduino-3D3D3D?style=flat-square&logo=arduino">
+      <h3 align="center">📂 Developer Portfolio</h3>
+      <p align="center">Showcasing skills, projects, and achievements.</p>
+      <div align="center">
+        <a href="https://ashneetjha.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-FF0055?style=for-the-badge&logo=vercel&logoColor=white"></a>
+        <a href="https://github.com/ashneetjha/Portfolio-Ashneet-Jha"><img src="https://img.shields.io/badge/Source_Code-1f2328?style=for-the-badge&logo=github&logoColor=white"></a>
+      </div>
+      <br>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white">
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <strong>🎮 Mathstronaut (Unity Game)</strong>
-      <p>An educational space-themed math game for kids, built in Unity.</p>
-      <a href="https://github.com/ashneetjha/Mathstronaut"><img src="https://img.shields.io/badge/Repo-00BCD4?style=for-the-badge&logo=github&logoColor=white"></a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Unity-3D3D3D?style=flat-square&logo=unity">
-      <img src="https://img.shields.io/badge/C%23-3D3D3D?style=flat-square&logo=csharp">
+      <h3 align="center">🔮 Cosmic Chronicles</h3>
+      <p align="center">Horoscope management system with auth & prediction.</p>
+      <div align="center">
+        <a href="https://ashneetjha.github.io/Cosmic-Chronicles/"><img src="https://img.shields.io/badge/Live_Demo-FF0055?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+        <a href="https://github.com/ashneetjha/Cosmic-Chronicles"><img src="https://img.shields.io/badge/Source_Code-1f2328?style=for-the-badge&logo=github&logoColor=white"></a>
+      </div>
+      <br>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/OOPs-000000?style=flat&logo=codio&logoColor=white">
+      </div>
     </td>
     <td width="50%">
-      </td>
+      <h3 align="center">🚗 Smart Parking System</h3>
+      <p align="center">IoT-based sensor optimization for parking.</p>
+      <div align="center">
+        <a href="https://github.com/ashneetjha/Smart-Car-Parking-System"><img src="https://img.shields.io/badge/Source_Code-1f2328?style=for-the-badge&logo=github&logoColor=white"></a>
+      </div>
+      <br>
+      <div align="center">
+        <img src="https://img.shields.io/badge/IoT-00979D?style=flat&logo=arduino&logoColor=white">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+      </div>
+    </td>
   </tr>
 </table>
 
-## 🎓 Education
-- **B.Tech CSE — SRMIST, KTR (Chennai)** (2023–2027)
-- **XII (CBSE) — Bal Bhavan International School** (2021–2023)
-- **I–X (CBSE) — Basava International School** (2010–2021)
-
-## 📜 Certifications
-- **Programming & Dev:** NPTEL (Programming in Java, Introduction to Machine Learning), Scaler & Udemy (DBMS, C Programming)
-- **Cloud & AI/ML:** AWS Academy (Cloud & ML Foundations), IBM SkillsBuild (Data Fundamentals)
-- **Networking:** Cisco Networking Academy (Networking Basics)
-
-## 🥇 Achievements
-- Student’s **Annual Outstanding Achievement Award (2023–24)** — C.Tech (CSE Core)
-- **2nd place** Intra-College (Civil & Mechanical Depts) & **3rd place** EGD (Mechanical)
-- **23+ Olympiad medals** in Math, Science, CS & Social Science
-
 ---
 
-## 📊 GitHub Highlights (TokyoNight Theme)
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ashneetjha&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashneetjha&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=ashneetjha&background=24283B&border=24283B&ring=F7768E&fire=F7768E&currStreakNum=C0CAF5&sideNums=C0CAF5&currStreakLabel=BB9AF7&sideLabels=C0CAF5&dates=7DCFFF"
-    alt="GitHub Streak"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ashneetjha&no-bg=true&no-frame=true&column=6&theme=tokyonight"
-    alt="GitHub Trophies"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashneetjha&theme=tokyonight"
-    alt="Profile Summary"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ashneetjha&bg_color=24283B&color=C0CAF5&line=F7768E&point=BB9AF7&hide_border=true&custom_title=Contribution%20Graph"
-    alt="Contribution Graph"
-  />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashneetjha&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ashneetjha&show_icons=true&theme=radical&hide_border=true&bg_color=141321&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashneetjha&layout=compact&theme=radical&hide_border=true&bg_color=141321" height="150" alt="languages graph" />
+</div>
 
----
-
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-
----
-
-## 📫 Contact
-- **Open to:** Internships, part-time roles, and collaborations in Web / Unity / AI-ML  
-- **Say hi:** Connect on <a href="https://linkedin.com/in/ashneetjha">LinkedIn</a> or via the portfolio above
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=2&section=footer" width="100%" />
+<div align="center">
   <br/>
-  <i>✨ Thanks for stopping by! If you like my work, consider starring my repos.</i>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BCD4&height=2&section=footer" width="100%" />
-</p>
+  <img src="https://streak-stats.demolab.com/?user=ashneetjha&theme=radical&hide_border=true&background=141321" alt="streak stats" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashneetjha/ashneetjha/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+<div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashneetjha&bg_color=141321&color=F7768E&line=F7768E&point=FFFFFF&hide_border=true" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
