@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ashneet%20Jha&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Research%20Intern%20•%20MERN%20Stack%20•%20Applied%20ML%20•%20Game%20Dev&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ashneet%20Jha&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Researcher%20•%20MERN%20Stack%20•%20Applied%20ML%20•%20Software%20Engineer&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=F7768E&center=true&vCenter=true&width=650&lines=Research+Intern+%40+IIT+Ropar+%26+NIT+Rourkela;Building+AI-driven+SaaS+%26+Pipelines;MERN+Stack+%F0%9F%8C%90+%7C+PyTorch+%F0%9F%94%A5+%7C+Unity+%F0%9F%8E%AE;Clean+Code.+Scalable+Systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=F7768E&center=true&vCenter=true&width=650&lines=Research+Scholar+%40+IIT+Ropar+%26+NIT+Rourkela;Building+AI-driven+SaaS+%26+Pipelines;MERN+Stack+%F0%9F%8C%90+%7C+PyTorch+%F0%9F%94%A5+%7C+System+Design;Clean+Code.+Scalable+Systems." alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -48,9 +48,9 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="120"><b>Game & Tools</b></td>
+      <td align="center" width="120"><b>DevOps & Tools</b></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=unity,git,github,aws,figma,vercel" />
+        <img src="https://skillicons.dev/icons?i=git,github,aws,figma,vercel,linux" />
       </td>
     </tr>
   </table>
@@ -145,16 +145,17 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashneetjha&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ashneetjha&show_icons=true&theme=radical&hide_border=true&bg_color=141321&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashneetjha&layout=compact&theme=radical&hide_border=true&bg_color=141321" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashneetjha&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Ashneet's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashneetjha&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ashneetjha&theme=midnight-purple&hide_border=true&background=0D1117" alt="Streak Stats" />
 </div>
 
+<br/>
 <div align="center">
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashneetjha&bg_color=141321&color=F7768E&line=F7768E&point=FFFFFF&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashneetjha&bg_color=0D1117&color=9e4c98&line=9e4c98&point=FFFFFF&hide_border=true" width="100%" />
 </div>
 
 ---
